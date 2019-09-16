@@ -186,5 +186,6 @@ public class MainActivity extends AppCompatActivity {
     public void  secondActivity(){
         Intent intent = new Intent(this,SecondActivity.class);
         startActivity(intent);
+        //commit
     }
 }
